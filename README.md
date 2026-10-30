@@ -1,10 +1,10 @@
 # Hi, I'm Saman B. Qadir
 
-**Systems Development | Digital Transformation | Technology & Management**
+**Digital Transformation | Technology & Management | Exploring Software Development**
 
-I'm a multidisciplinary professional with established experience in organizational management, quality assurance, and process improvement, alongside a growing focus on software development, database systems, and digital transformation.
+My professional background spans organizational management, quality assurance, process improvement, and digital transformation. I focus on clear processes, continual improvement, and connecting organizational needs with practical uses of technology.
 
-I'm interested in connecting practical organizational needs with useful digital systems. I'm developing my technical skills through learning and experimentation, with the aim of building solutions that improve processes, information management, and organizational efficiency.
+I'm expanding my skills in software development and database systems through learning and experimentation. My goal is to build useful digital solutions that improve processes, information management, and organizational efficiency.
 
 ## Areas of interest
 
